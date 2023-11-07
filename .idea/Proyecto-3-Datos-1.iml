@@ -56,5 +56,6 @@
         <jarDirectory url="jar://$MODULE_DIR$/springboot/spring-boot-starter-3.1.5.jar!/" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
